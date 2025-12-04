@@ -1,2 +1,2 @@
 # mybot35
-mybot
+my40bot
